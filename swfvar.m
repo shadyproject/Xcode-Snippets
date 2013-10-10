@@ -1,4 +1,4 @@
-// NSString
+// NSString variable
 // Create a string via stringWithFormat with a variable
 //
 // Platform: All
